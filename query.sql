@@ -1,5 +1,6 @@
 /* What are the top 5 brands by receipts scanned for most recent month? */
 /* Assumption: Taking "most recent month" to mean the previous month*/
+/* Using Microsoft SQL Server */
 
 with cte as (
   select b.name
