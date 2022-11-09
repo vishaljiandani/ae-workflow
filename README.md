@@ -1,1 +1,1 @@
-This is the answer to the Fetch Rewards Analytics Engineer Assessment
+This is the solution to the Fetch Rewards Analytics Engineer Assessment
