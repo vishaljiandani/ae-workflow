@@ -1,35 +1,27 @@
 Hello Daniel,
 
-My name is Vishal and I'm an Analytics Engineer here at Fetch Rewards. Pleasure
-to e-meet you!
+My name is Vishal and I'm an Analytics Engineer here at Fetch Rewards. Pleasure to e-meet you!
 
-I was recently tasked with exploring, modeling and unveiling a key insight
-using the assessment data. I discovered a couple of issues with the data using
-Python, and I was wondering if you could provide more insight into them:
+I was recently tasked with exploring, modeling and unveiling a key insight using the assessment data. I discovered a
+couple of issues with the data using Python, and I was wondering if you could provide more insight into them:
 
-1. In the "users.json" file, there seem to be a considerable number of duplicates
-as well as entries created by Fetch staff. I've taken care of the issue for now,
-but I'm wondering if there is a specific reason for this, and whether we can
-handle this issue at the source?
+1. In the "users.json" file, there seem to be a considerable number of duplicates as well as entries created by
+Fetch staff. I've taken care of the issue for now, but I'm wondering if there is a specific reason for this, and
+whether we can handle this issue at the source?
 
-2. There is a similar issue in "brands.json" where there exist a few "test"
-barcode entries created by Fetch staff. It isn't a huge problem for now, but
-it could mess with any potential insights once the volume of data increases.
+2. There is a similar issue in "brands.json" where there exist a few "test" barcode entries created by Fetch staff.
+It isn't a huge problem for now, but it could mess with any potential insights once the volume of data increases.
 
-In addition to these, it would be helpful to have a description for each field
-in the "items" table in the ERD (This table is derived from the "receipts.json"
-file).
+In addition to these, it would be helpful to have a description for each field in the "items" table in the ERD
+(This table is derived from the "receipts.json" file).
 
-Having all this information would go a long way towards better optimization
-of these data assets.
+Having this information would go a long way towards better optimization of these data assets.
 
-I also noticed that some of the questions being asked of the data are quite
-similar to each other. While writing SQL queries for each bullet point is
-doable, it might benefit future performance to make use of materialized views,
+I also noticed that some of the questions being asked of the data are quite similar to each other. While writing
+SQL queries for each bullet point is doable, it might benefit future performance to make use of materialized views,
 which is more efficient than querying the database from scratch.
 
-Please let me know if you have any questions or concerns. Looking forward to
-your response!
+Please let me know if you have any questions or concerns. Looking forward to your response!
 
 Best,
 Vishal
