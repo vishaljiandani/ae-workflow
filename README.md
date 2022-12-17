@@ -1,1 +1,1 @@
-This is the solution to the Fetch Rewards Analytics Engineer Assessment
+This repo is to simulate what an Analytics Engineer might do in their day to day
