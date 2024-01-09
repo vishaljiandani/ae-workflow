@@ -1,6 +1,6 @@
 Hello Daniel,
 
-My name is Vishal and I'm an Analytics Engineer here at Fetch Rewards. Pleasure to e-meet you!
+My name is Vishal and I'm an Analytics Engineer working here. Pleasure to e-meet you!
 
 I was recently tasked with exploring, modeling and unveiling a key insight using the assessment data. I discovered a
 couple of issues with the data using Python, and I was wondering if you could provide more insight into them:
